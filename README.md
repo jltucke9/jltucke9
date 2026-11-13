@@ -1,6 +1,6 @@
 <p>
   <img
-    src="[https://github.com/user-attachments/assets/b98ac709-8d1c-471f-82dd-81c23b98739d](https://github.com/user-attachments/assets/c4d05055-6a69-4150-9b5a-764fd555e1ff)"
+    src="https://github.com/user-attachments/assets/e3998b28-a33e-4135-be55-be9a24b86a4b"
     alt="JT Logo"
     width="115"
     align="left"
